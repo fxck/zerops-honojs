@@ -7,7 +7,6 @@ A Nodejs Hono example for Zerops which you can deploy in 2 simple steps.
 **Features**
 
 - Hono
-- Tailwind
 
 ## Instructions to Deploy on Zerops
 
