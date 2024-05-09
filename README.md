@@ -1,6 +1,6 @@
 # Zerops + Hono - Node
 
-<!-- ![Header Image](/header.png) -->
+![Header Image](/header.png)
 
 A Nodejs Hono example for Zerops which you can deploy in 2 simple steps.
 
